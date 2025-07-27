@@ -1,4 +1,4 @@
-# Python Course
+# Sprints Course
 
 # Introduction to Software Engineering
 
